@@ -17,10 +17,10 @@ https://github.com/ponderersnook/btech_vlsi_project
 
 
 Political Science Projects: 
-5. Indian-Legal-System: Assignments from the Indian Legal System class.
+1. Indian-Legal-System: Assignments from the Indian Legal System class.
 https://github.com/ponderersnook/Indian-Legal-System
 
-6. Introduction-to-International-Relations: Assignments from intro to international relations class.
+2. Introduction-to-International-Relations: Assignments from intro to international relations class.
 https://github.com/ponderersnook/Introduction-to-International-Relations
 
 
