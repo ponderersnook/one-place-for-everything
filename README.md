@@ -16,7 +16,7 @@ https://github.com/ponderersnook/btech_vlsi_project
 
 
 
-Political Science Projects:
+Political Science Projects: 
 5. Indian-Legal-System: Assignments from the Indian Legal System class.
 https://github.com/ponderersnook/Indian-Legal-System
 
