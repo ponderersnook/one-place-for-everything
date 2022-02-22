@@ -38,3 +38,5 @@ Social Media:
 
 6. Writing Samples: https://drive.google.com/drive/folders/13mcu_DR6mQFB6KE_C-of7qxcL3WZAEPL?usp=sharing 
 
+7. Asiana Times: https://asianatimes.com/author/sakshi-shrivastava/
+
