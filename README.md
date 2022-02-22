@@ -36,3 +36,5 @@ Social Media:
 
 5. Website: https://ponderersnook.github.io/startbootstrap-clean-blog-jekyll/
 
+6. Writing Samples: https://drive.google.com/drive/folders/13mcu_DR6mQFB6KE_C-of7qxcL3WZAEPL?usp=sharing 
+
